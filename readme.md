@@ -11,8 +11,8 @@ Welcome to the Calorie Tracker project! This project aims to help you keep track
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/calorie-tracker.git`
-2. Install the dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/dhruv-wappnet/calorie-tracker.git`
+3. Install the dependencies: `pip install -r requirements.txt`
 
 ## APIs
 
